@@ -1,2 +1,7 @@
 # Analisis-Jejaring-Sosial-2
-Aidan Maulana - Teknologi Informasi - Semester 6 A
+Nama : Aidan Maulana
+Prodi : Teknologi Informasi
+Fakultas : Teknik
+Mata Kuliah : Analisis Jejaring Sosial
+Semester : 6 A
+
